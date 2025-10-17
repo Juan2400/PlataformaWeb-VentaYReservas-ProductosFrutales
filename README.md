@@ -1,6 +1,6 @@
 # 🍓 DecoFruta — Plataforma Web de Venta y Reservas
 
-**DecoFruta** es una aplicación web diseñada para ofrecer productos comestibles a base de frutas para diferentes ocasiones.  https://github.com/Juan2400/PlataformaWeb-VentaYReservas-ProductosFrutales/blob/main/README.md
+**DecoFruta** es una aplicación web diseñada para ofrecer productos comestibles a base de frutas para diferentes ocasiones.
 Permite a los usuarios **realizar pedidos, reservar mesas, consultar productos** y conocer más sobre la marca.  
 Cuenta además con un **módulo administrativo** para la gestión de productos, reservas, ventas y usuarios.
 
