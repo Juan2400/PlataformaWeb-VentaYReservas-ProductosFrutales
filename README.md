@@ -24,11 +24,38 @@ Cuenta además con un **módulo administrativo** para la gestión de productos, 
 - Registro de ventas y reportes
 - Administración de usuarios
 
+📸 **Vista del Panel de Administración:**
+![Panel Administrador](imgInterfaz/administradores.png)
+
+📸 **Vista del Panel de Administración Productos:**
+![Panel Administrador Productos](imgInterfaz/administra_productos.png)
+
+📸 **Vista del Panel de Administración Productos:**
+![Panel Administrador Más Vendidos](imgInterfaz/mas_vendidos.png)
+
+📸 **Vista del Panel de Administración Reservas:**
+![Panel Administrador Más Vendidos](imgInterfaz/administra_reservas.png)
+
 ### 🍎 Módulo Cliente
 - Visualización de productos por categoría y ocasión
 - Reserva de mesas para eventos
 - Registro e inicio de sesión
 - Carrito de compras y simulación de pedidos
+
+📸 **Vista Acceso:**
+![Catálogo de Productos](imgInterfaz/autenticacion.png)
+
+📸 **Vista Inicio:**
+![Catálogo de Productos](imgInterfaz/inicio.png)
+
+📸 **Vista del Catálogo de Productos:**
+![Catálogo de Productos](imgInterfaz/catalogo_productos.png)
+
+📸 **Vista del Carrito de Compras:**
+![Carrito de Compras](imgInterfaz/carrito_compras.png)
+
+📸 **Vista de Reserva de Mesas:**
+![Reserva de Mesas](imgInterfaz/reserva_mesas.png)
 
 ---
 
