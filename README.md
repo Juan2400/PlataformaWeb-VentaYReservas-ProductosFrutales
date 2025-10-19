@@ -30,7 +30,7 @@ Cuenta además con un **módulo administrativo** para la gestión de productos, 
 📸 **Vista del Panel de Administración Productos:**
 ![Panel Administrador Productos](imgInterfaz/administra_productos.png)
 
-📸 **Vista del Panel de Administración Productos:**
+📸 **Vista del Panel de Administración Más Vendidos:**
 ![Panel Administrador Más Vendidos](imgInterfaz/mas_vendidos.png)
 
 📸 **Vista del Panel de Administración Reservas:**
